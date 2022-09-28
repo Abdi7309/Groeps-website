@@ -61,6 +61,10 @@ padding-left: 20px;
 box-sizing: border-box;
 font-family: 'Inter';
 font-style: normal;
+transition: transform 0.5s;
+}
+#kleineKnop1:hover{
+    transform: scale(1.1);
 }
 #kleineKnop2{
 position: absolute;
