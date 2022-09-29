@@ -23,6 +23,7 @@
     top: 190px;
     background: #FFFFFF;
     transition: transform 0.5s;
+    border-radius: 15px;
 }
 #groteKnop:hover{
     transform: scale(1.1);
@@ -66,6 +67,7 @@
     font-family: 'Inter';
     font-style: normal;
     transition: transform 0.5s;
+    border-radius: 15px;
 }
 #kleineKnop1:hover{
     transform: scale(1.1);
@@ -83,6 +85,7 @@
     font-family: 'Inter';
     font-style: normal;
     transition: transform 0.5s;
+    border-radius: 15px;
 }
 #kleineKnop2:hover{
     transform: scale(1.1);
@@ -100,6 +103,7 @@
     font-family: 'Inter';
     font-style: normal;
     transition: transform 0.5s;
+    border-radius: 15px;
 }
 #kleineKnop3:hover{
     transform: scale(1.1);
@@ -117,6 +121,7 @@
     font-family: 'Inter';
     font-style: normal;
     transition: transform 0.5s;
+    border-radius: 15px;
 }
 #kleineKnop4:hover{
     transform: scale(1.1);
