@@ -186,9 +186,24 @@
     margin-left: -100px;
 }
 
+
 .gay {
     margin: 100px;
     height: 200vh;
     font-family: sans-serif;
+}
+
+
+#foto2{
+    padding-top: 0px;
+    margin-left: 405px;
+}
+#foto3{
+    margin-top: -610px;
+    margin-left: 950px;
+}
+#foto4{
+    padding-top: 0px;
+    margin-left: 385px;
 }
 
