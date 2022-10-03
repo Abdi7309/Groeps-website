@@ -181,6 +181,7 @@
     color: #000000;
     text-decoration: none;
 }
+<<<<<<< Updated upstream
 #foto1{
     padding-top: 120px;
     margin-left: -100px;
@@ -227,3 +228,11 @@ left: 100px;
     position: relative;
     left: 100px;
 }
+=======
+img{
+    position: relative;
+    margin-top: -550px;
+    left: -60px;
+    
+}
+>>>>>>> Stashed changes
