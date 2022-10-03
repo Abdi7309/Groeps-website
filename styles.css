@@ -168,7 +168,7 @@
     font-size: 24px;
     line-height: 29px;
     color: #000000;
-    text-decoration: none;
+    text-decoration: none; 
 }
 #navbar5{
     position: absolute;
@@ -206,6 +206,7 @@
     padding-top: 0px;
     margin-left: 385px;
 }
+<<<<<<< Updated upstream
 
 .bubbles img {
     width: 50px;
@@ -247,3 +248,20 @@ animation: bubbles 7s linear infinite;
         opacity: 0;
     }
 }
+=======
+#tekst1{
+    padding-top: 0px;
+    margin-left: -100px;
+    inline-size: 500px;
+}
+#tekst2{
+    margin-top: -260px;
+    margin-left: 900px;
+    inline-size: 500px;
+}
+#tekst3{
+    margin-top: -580px;
+    margin-left: 400px;
+    inline-size: 500px;
+}
+>>>>>>> Stashed changes
