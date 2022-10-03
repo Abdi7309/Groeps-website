@@ -206,6 +206,38 @@
     padding-top: 0px;
     margin-left: 385px;
 }
+#tekst1{
+    padding-top: 0px;
+    margin-left: -100px;
+    inline-size: 500px;
+}
+#tekst2{
+    margin-top: -260px;
+    margin-left: 900px;
+    inline-size: 500px;
+}
+#tekst3{
+    margin-top: -580px;
+    margin-left: 400px;
+    inline-size: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <<<<<<< Updated upstream
 
 .bubbles img {
@@ -249,19 +281,5 @@ animation: bubbles 7s linear infinite;
     }
 }
 =======
-#tekst1{
-    padding-top: 0px;
-    margin-left: -100px;
-    inline-size: 500px;
-}
-#tekst2{
-    margin-top: -260px;
-    margin-left: 900px;
-    inline-size: 500px;
-}
-#tekst3{
-    margin-top: -580px;
-    margin-left: 400px;
-    inline-size: 500px;
-}
+
 >>>>>>> Stashed changes
