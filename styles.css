@@ -216,7 +216,10 @@
 }
 #foto3{
     margin-top: -610px;
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 4ac007a (restart)
     margin-left: 950px;
 }
 #foto4{
@@ -362,6 +365,7 @@ animation: bubbles 7s linear infinite;
 .bubbles img:nth-child(1){
     animation-delay: 2s;
 }
+<<<<<<< HEAD
 
 
 
@@ -389,3 +393,6 @@ animation: bubbles 7s linear infinite;
 
 
 
+=======
+>>>>>>> Stashed changes
+>>>>>>> parent of 4ac007a (restart)
