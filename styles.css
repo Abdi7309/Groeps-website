@@ -206,4 +206,24 @@
     padding-top: 0px;
     margin-left: 385px;
 }
+#vecht{
+    position: relative;
+padding-top: 110px;
+left: 100px;
+}
+#gym{
+    position: relative;
+  padding-top: -100px;
+  left: -110px;
+}
+#gaming{
+    position: relative;
+    margin: -50px;
+    top: 20px;
+    left: 70px;
+}
 
+#tekst{
+    position: relative;
+    left: 100px;
+}
