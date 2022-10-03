@@ -130,7 +130,7 @@
     position: absolute;
     width: 177px;
     height: 52px;
-    left: 311px;
+    left: 181px;
     top: 63px;
     font-size: 24px;
     line-height: 29px;
@@ -141,7 +141,7 @@
     position: absolute;
     width: 177px;
     height: 52px;
-    left: 498px;
+    left: 360px;
     top: 63px;
     font-size: 24px;
     line-height: 29px;
@@ -152,7 +152,7 @@
     position: absolute;
     width: 177px;
     height: 52px;
-    left: 696px;
+    left: 550px;
     top: 63px;
     font-size: 24px;
     line-height: 29px;
@@ -163,25 +163,36 @@
     position: absolute;
     width: 177px;
     height: 52px;
-    left: 904px;
+    left: 745px;
     top: 63px;
     font-size: 24px;
     line-height: 29px;
     color: #000000;
-    text-decoration: none;
+    text-decoration: none; 
 }
 #navbar5{
     position: absolute;
     width: 177px;
     height: 52px;
-    left: 1090px;
+    left: 929px;
     top: 63px;
     font-size: 24px;
     line-height: 29px;
     color: #000000;
     text-decoration: none;
 }
-<<<<<<< Updated upstream
+#navbar6{
+        position: absolute;
+        width: 177px;
+        height: 52px;
+        left: 1100px;
+        top: 63px;
+        font-size: 24px;
+        line-height: 29px;
+        color: #000000;
+        text-decoration: none;
+}
+
 #foto1{
     padding-top: 120px;
     margin-left: -100px;
@@ -207,6 +218,7 @@
     padding-top: 0px;
     margin-left: 385px;
 }
+
 #vecht{
     position: relative;
 padding-top: 110px;
@@ -228,11 +240,129 @@ left: 100px;
     position: relative;
     left: 100px;
 }
-=======
+
 img{
     position: relative;
     margin-top: -550px;
     left: -60px;
     
 }
+
+#tekst1{
+    padding-top: 0px;
+    margin-left: -100px;
+    inline-size: 500px;
+}
+#tekst2{
+    margin-top: -260px;
+    margin-left: 900px;
+    inline-size: 500px;
+}
+#tekst3{
+    margin-top: -580px;
+    margin-left: 400px;
+    inline-size: 500px;
+}
+#overons1{
+    position: absolute;
+    width: 275px;
+    height: 477px;
+    left: 1050px;
+    top: 190px;
+    background: #FFFFFF;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+#overons2{
+    position: absolute;
+    width: 275px;
+    height: 477px;
+    left: 750px;
+    top: 190px;
+    background: #FFFFFF;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+#overons3{
+    position: absolute;
+    width: 275px;
+    height: 477px;
+    left: 450px;
+    top: 190px;
+    background: #FFFFFF;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+#overons4{
+    position: absolute;
+    width: 275px;
+    height: 477px;
+    left: 150px;
+    top: 190px;
+    background: #FFFFFF;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< Updated upstream
+
+.bubbles img {
+    width: 50px;
+animation: bubbles 7s linear infinite;
+}
+
+.bubbles {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: absolute;
+    bottom: 0;
+}
+
+@keyframes bubbles {
+
+
+
+    0% {
+        transform: translateY(0);
+        opacity: 0;
+    }
+
+
+    50% {
+        opacity: 1;
+    }
+
+    70% {
+        opacity: 1;
+
+    }
+
+
+
+    100% {
+        transform: translateY(-80vh);
+        opacity: 0;
+    }
+}
+=======
+
+>>>>>>> 10cbf8b7f29c93609cbd6acbf881f085d50db50c
 >>>>>>> Stashed changes
