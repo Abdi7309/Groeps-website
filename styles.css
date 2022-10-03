@@ -214,6 +214,7 @@
 }
 #foto3{
     margin-top: -610px;
+
     margin-left: 950px;
 }
 #foto4{
@@ -358,6 +359,9 @@ animation: bubbles 7s linear infinite;
 .bubbles img:nth-child(1){
     animation-delay: 2s;
 }
+
+
+
 .bubbles img:nth-child(2){
     animation-delay: 1s;
 }
@@ -379,5 +383,6 @@ animation: bubbles 7s linear infinite;
 .bubbles img:nth-child(7){
     animation-delay: 7s;
 }
+
 
 
