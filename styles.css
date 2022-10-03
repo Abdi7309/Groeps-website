@@ -141,7 +141,7 @@
     position: absolute;
     width: 177px;
     height: 52px;
-    left: 349px;
+    left: 360px;
     top: 63px;
     font-size: 24px;
     line-height: 29px;
@@ -181,6 +181,7 @@
     color: #000000;
     text-decoration: none;
 }
+
 #navbar6{
         position: absolute;
         width: 177px;
@@ -192,6 +193,7 @@
         color: #000000;
         text-decoration: none;
 }
+
 #foto1{
     padding-top: 120px;
     margin-left: -100px;
@@ -217,6 +219,38 @@
     padding-top: 0px;
     margin-left: 385px;
 }
+
+#vecht{
+    position: relative;
+padding-top: 110px;
+left: 100px;
+}
+#gym{
+    position: relative;
+  padding-top: -100px;
+  left: -110px;
+}
+#gaming{
+    position: relative;
+    margin: -50px;
+    top: 20px;
+    left: 70px;
+}
+
+#tekst{
+    position: relative;
+    left: 100px;
+}
+
+
+img{
+    position: relative;
+    margin-top: -550px;
+    left: -60px;
+    
+
+}
+
 #tekst1{
     padding-top: 0px;
     margin-left: -100px;
@@ -232,6 +266,63 @@
     margin-left: 400px;
     inline-size: 500px;
 }
+#overons1{
+    position: absolute;
+    width: 275px;
+    height: 477px;
+    left: 1050px;
+    top: 190px;
+    background: #FFFFFF;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+#overons2{
+    position: absolute;
+    width: 275px;
+    height: 477px;
+    left: 750px;
+    top: 190px;
+    background: #FFFFFF;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+#overons3{
+    position: absolute;
+    width: 275px;
+    height: 477px;
+    left: 450px;
+    top: 190px;
+    background: #FFFFFF;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+#overons4{
+    position: absolute;
+    width: 275px;
+    height: 477px;
+    left: 150px;
+    top: 190px;
+    background: #FFFFFF;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -277,6 +368,7 @@ animation: bubbles 7s linear infinite;
 }
 
 
+
 .bubbles img:nth-child(1){
     animation-delay: 2s;
 }
@@ -301,4 +393,5 @@ animation: bubbles 7s linear infinite;
 .bubbles img:nth-child(7){
     animation-delay: 7s;
 }
+
 
