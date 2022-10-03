@@ -130,7 +130,7 @@
     position: absolute;
     width: 177px;
     height: 52px;
-    left: 311px;
+    left: 181px;
     top: 63px;
     font-size: 24px;
     line-height: 29px;
@@ -141,7 +141,7 @@
     position: absolute;
     width: 177px;
     height: 52px;
-    left: 498px;
+    left: 349px;
     top: 63px;
     font-size: 24px;
     line-height: 29px;
@@ -152,7 +152,7 @@
     position: absolute;
     width: 177px;
     height: 52px;
-    left: 696px;
+    left: 550px;
     top: 63px;
     font-size: 24px;
     line-height: 29px;
@@ -163,23 +163,34 @@
     position: absolute;
     width: 177px;
     height: 52px;
-    left: 904px;
+    left: 745px;
+    top: 63px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    text-decoration: none; 
+}
+#navbar5{
+    position: absolute;
+    width: 177px;
+    height: 52px;
+    left: 929px;
     top: 63px;
     font-size: 24px;
     line-height: 29px;
     color: #000000;
     text-decoration: none;
 }
-#navbar5{
-    position: absolute;
-    width: 177px;
-    height: 52px;
-    left: 1090px;
-    top: 63px;
-    font-size: 24px;
-    line-height: 29px;
-    color: #000000;
-    text-decoration: none;
+#navbar6{
+        position: absolute;
+        width: 177px;
+        height: 52px;
+        left: 1100px;
+        top: 63px;
+        font-size: 24px;
+        line-height: 29px;
+        color: #000000;
+        text-decoration: none;
 }
 #foto1{
     padding-top: 120px;
@@ -206,6 +217,23 @@
     padding-top: 0px;
     margin-left: 385px;
 }
+#tekst1{
+    padding-top: 0px;
+    margin-left: -100px;
+    inline-size: 500px;
+}
+#tekst2{
+    margin-top: -260px;
+    margin-left: 900px;
+    inline-size: 500px;
+}
+#tekst3{
+    margin-top: -580px;
+    margin-left: 400px;
+    inline-size: 500px;
+}
+
+
 
 .bubbles img {
     width: 50px;
@@ -248,6 +276,7 @@ animation: bubbles 7s linear infinite;
     }
 }
 
+
 .bubbles img:nth-child(1){
     animation-delay: 2s;
 }
@@ -272,3 +301,4 @@ animation: bubbles 7s linear infinite;
 .bubbles img:nth-child(7){
     animation-delay: 7s;
 }
+
