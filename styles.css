@@ -130,7 +130,7 @@
     position: absolute;
     width: 177px;
     height: 52px;
-    left: 311px;
+    left: 181px;
     top: 63px;
     font-size: 24px;
     line-height: 29px;
@@ -141,7 +141,7 @@
     position: absolute;
     width: 177px;
     height: 52px;
-    left: 498px;
+    left: 349px;
     top: 63px;
     font-size: 24px;
     line-height: 29px;
@@ -152,7 +152,7 @@
     position: absolute;
     width: 177px;
     height: 52px;
-    left: 696px;
+    left: 550px;
     top: 63px;
     font-size: 24px;
     line-height: 29px;
@@ -163,7 +163,7 @@
     position: absolute;
     width: 177px;
     height: 52px;
-    left: 904px;
+    left: 745px;
     top: 63px;
     font-size: 24px;
     line-height: 29px;
@@ -174,12 +174,23 @@
     position: absolute;
     width: 177px;
     height: 52px;
-    left: 1090px;
+    left: 929px;
     top: 63px;
     font-size: 24px;
     line-height: 29px;
     color: #000000;
     text-decoration: none;
+}
+#navbar6{
+        position: absolute;
+        width: 177px;
+        height: 52px;
+        left: 1100px;
+        top: 63px;
+        font-size: 24px;
+        line-height: 29px;
+        color: #000000;
+        text-decoration: none;
 }
 #foto1{
     padding-top: 120px;
