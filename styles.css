@@ -181,6 +181,7 @@
     color: #000000;
     text-decoration: none;
 }
+<<<<<<< Updated upstream
 #navbar6{
         position: absolute;
         width: 177px;
@@ -241,11 +242,14 @@ left: 100px;
     left: 100px;
 }
 
+=======
+>>>>>>> Stashed changes
 img{
     position: relative;
     margin-top: -550px;
     left: -60px;
     
+<<<<<<< Updated upstream
 }
 
 #tekst1{
@@ -364,3 +368,6 @@ animation: bubbles 7s linear infinite;
 }
 
 
+=======
+}
+>>>>>>> Stashed changes
