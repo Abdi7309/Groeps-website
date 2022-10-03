@@ -181,6 +181,9 @@
     color: #000000;
     text-decoration: none;
 }
+ 
+
+
 
 #navbar6{
         position: absolute;
@@ -213,6 +216,7 @@
 }
 #foto3{
     margin-top: -610px;
+
     margin-left: 950px;
 }
 #foto4{
@@ -248,6 +252,8 @@ img{
     position: relative;
     margin-top: -550px;
     left: -60px;
+    
+
 
 }
 
@@ -309,22 +315,6 @@ img{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .bubbles img {
     width: 50px;
 animation: bubbles 7s linear infinite;
@@ -365,4 +355,37 @@ animation: bubbles 7s linear infinite;
         opacity: 0;
     }
 }
+
+
+
+
+.bubbles img:nth-child(1){
+    animation-delay: 2s;
+}
+
+
+
+.bubbles img:nth-child(2){
+    animation-delay: 1s;
+}
+.bubbles img:nth-child(2){
+    animation-delay: 3s;
+}
+.bubbles img:nth-child(3){
+    animation-delay: 4.5s;
+}
+.bubbles img:nth-child(4){
+    animation-delay: 3s;
+}
+.bubbles img:nth-child(5){
+    animation-delay: 2s;
+}
+.bubbles img:nth-child(6){
+    animation-delay: 6s;
+}
+.bubbles img:nth-child(7){
+    animation-delay: 7s;
+}
+
+
 
