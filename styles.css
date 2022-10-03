@@ -182,6 +182,7 @@
     text-decoration: none;
 }
 
+
 #navbar6{
         position: absolute;
         width: 177px;
@@ -213,7 +214,7 @@
 }
 #foto3{
     margin-top: -610px;
-<<<<<<< HEAD
+
     margin-left: 950px;
 }
 #foto4{
@@ -221,17 +222,17 @@
     margin-left: 385px;
 }
 
-#vecht{
+#foto1{
     position: relative;
 padding-top: 110px;
 left: 100px;
 }
-#gym{
+#foto2{
     position: relative;
   padding-top: -100px;
   left: -110px;
 }
-#gaming{
+#foto3{
     position: relative;
     margin: -50px;
     top: 20px;
@@ -243,14 +244,15 @@ left: 100px;
     left: 100px;
 }
 
-=======
->>>>>>> Stashed changes
+
+
 img{
     position: relative;
     margin-top: -550px;
     left: -60px;
     
-<<<<<<< Updated upstream
+
+
 }
 
 #tekst1{
@@ -327,6 +329,7 @@ img{
 
 
 
+
 .bubbles img {
     width: 50px;
 animation: bubbles 7s linear infinite;
@@ -369,10 +372,34 @@ animation: bubbles 7s linear infinite;
 }
 
 
-=======
+
+.bubbles img:nth-child(1){
+    animation-delay: 2s;
 }
->>>>>>> Stashed changes
-=======
-    margin-left: 900px;
+
+
+
+.bubbles img:nth-child(2){
+    animation-delay: 1s;
 }
->>>>>>> parent of 6b04e37 (foto´s gezin)
+.bubbles img:nth-child(2){
+    animation-delay: 3s;
+}
+.bubbles img:nth-child(3){
+    animation-delay: 4.5s;
+}
+.bubbles img:nth-child(4){
+    animation-delay: 3s;
+}
+.bubbles img:nth-child(5){
+    animation-delay: 2s;
+}
+.bubbles img:nth-child(6){
+    animation-delay: 6s;
+}
+.bubbles img:nth-child(7){
+    animation-delay: 7s;
+}
+
+
+
